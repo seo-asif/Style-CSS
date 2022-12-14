@@ -1,0 +1,27 @@
+Suppose We beed to add <code> tag .In order to beautify we will add this into custom CSS or code snippets
+
+
+
+For White background
+code {
+   padding: 5px 5px 5px;
+    border-radius:4px;
+    background: #F2F2F2;
+    font-size: 1em;
+    line-height: 1.4em;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+For Black Background
+code{
+    padding: 0 5px 1px;
+    border-color: #525252;
+    border-radius: 4px;
+    background: #1B1B1B;
+    font-size: 1.1em;
+    line-height: 1.4em;
+}
